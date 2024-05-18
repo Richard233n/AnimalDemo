@@ -1,0 +1,26 @@
+- AnimalDemo
+  - pages
+    - Tabbar
+      - Home
+        -Home.vue 
+      - Release
+        -Release.vue 
+      - Shop
+        -Shop.vue 
+      - User
+        -User.vue 
+  - static
+    - css
+      - style.css
+    - images
+      - logo.png
+  - components
+    - header.vue
+    - footer.vue
+  - App.vue
+  - main.js
+  - manifest.json
+  - pages.json
+  - uni.scss
+  - README.md
+# AnimalDemo
